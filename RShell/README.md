@@ -1,4 +1,4 @@
-# CS100 ASSIGNMENT 2: WRITING A BASIC COMMAND SHELL
+
 
 	We plan to utilize a composite design pattern to build a command shell called rshell.
   We are able to print a command prompt, read in a line of command(s) (and connector(s))
