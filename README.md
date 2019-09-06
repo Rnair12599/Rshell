@@ -2,7 +2,7 @@
  ## RSHELL
 	Description: Developed an Rshell in C++ that takes in various bash commands and executes them based on priority. 
 
-	We utilized a composite design pattern to build a command shell called rshell.
+  We utilized a composite design pattern to build a command shell called rshell.
   We are able to print a command prompt, read in a line of command(s) (and connector(s))
   from standard input, and execute the appropriate commands using fork, execvp, and wait.
   Our solution involves using an abstract base class that represents the entire command
